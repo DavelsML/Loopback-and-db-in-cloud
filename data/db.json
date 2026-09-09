@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Friend": 3,
+    "Address": 3
+  },
+  "models": {
+    "Friend": {
+      "1": "{\"firstname\":\"Janis\",\"lastname\":\"Ozols\",\"id\":1}"
+    },
+    "Address": {
+      "1": "{\"city\":\"Riga\",\"postcode\":\"LV-1234\",\"street\":\"Tallinas iela\",\"house_number\":\"1\",\"friendId\":1,\"id\":1}",
+      "2": "{\"city\":\"Riga\",\"postcode\":\"LV-4321\",\"street\":\"Bruninieku iela\",\"house_number\":\"2\",\"friendId\":1,\"id\":2}"
+    }
+  }
+}
